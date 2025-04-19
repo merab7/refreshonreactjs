@@ -17,7 +17,6 @@ function Header() {
             <a href="#">Contact</a>
           </li>
           <li>
-            <a href="#">this is form zed</a>
           </li>
         </ul>
         <hr />
